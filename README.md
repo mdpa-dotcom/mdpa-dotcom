@@ -44,4 +44,23 @@
 </div>
 </details>
 
+<details> 
+  <summary>💻 GitHub Profile Stats</summary>
+  <div>
+  <samp>
+    <h2 align="center"> Github stats </h2>
+      <br/>
+    <details open>
+  <summary><h3>Languages</h3></summary>
+            <p align="center">
+        <a href="https://github.com/mdpa-dotcom">
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdpa-dotcom&theme=gotham&show_icons=true&hide_border=true&layout=compact"
+          alt="mdpa :: overall Top Langs " /></a>
+              
+    
+     <br>
+     </samp>
+  </div>    
+</details>
+
 -----

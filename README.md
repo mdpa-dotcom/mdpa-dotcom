@@ -79,7 +79,7 @@
   <br/>
   <h2 align="center"> Tecnologías que utilizo </h2>
   
-  <img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/6ca12397-1bcd-4528-814a-3394ed7dec4f" />
+  <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/6ca12397-1bcd-4528-814a-3394ed7dec4f" />
 
 <br/>
   </samp>

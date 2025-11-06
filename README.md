@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy mdpa</h1>
+<h1 align="center">Hola </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">, soy mdpa  ![](https://github.com/mscoutermarsh/mscoutermarsh/blob/master/teeter.gif?raw=true)</h1>
 <h4 align="center">Soy un estudiante de ingenieria en sistemas💻, apasionado a las redes que conectan este mundo 🌎 
 
 -----
@@ -59,7 +59,7 @@
                   
 </details>
     <details open>
-  <summary><h3>stasistic</h3></summary>
+  <summary><h3>Estadisticas</h3></summary>
         <p align="center">
           <a href="https://github.com/mdpa-dotcom/">
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mdpa-dotcom&theme=gotham&show_icons=true&hide_border=true&count_private=false" />

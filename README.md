@@ -51,13 +51,21 @@
     <h2 align="center"> Github stats </h2>
       <br/>
     <details open>
-  <summary><h3>Languages</h3></summary>
+  <summary><h3>Lenguajes</h3></summary>
             <p align="center">
-        <a href="https://github.com/mdpa-dotcom">
+        <a href="https://github.com/mdpa-dotcom/">
           <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdpa-dotcom&theme=gotham&show_icons=true&hide_border=true&layout=compact"
           alt="mdpa :: overall Top Langs " /></a>
-              
-    
+                  
+</details>
+    <details open>
+  <summary><h3>stasistic</h3></summary>
+        <p align="center">
+          <a href="https://github.com/mdpa-dotcom/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=mdpa-dotcom&theme=gotham&show_icons=true&hide_border=true&count_private=false" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=mdpa-dotcom&theme=gotham&hide_border=true" />    
+          </a>
+       </p>
      <br>
      </samp>
   </div>    

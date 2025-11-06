@@ -79,8 +79,23 @@
   <br/>
   <h2 align="center"> Tecnologías que utilizo </h2>
   <div align="center">
-  <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/6ca12397-1bcd-4528-814a-3394ed7dec4f" />
-  <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/dd6b81f4-93a6-4b47-ab73-ccc3aae99dfb" />
+  <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/dd6b81f4-93a6-4b47-ab73-ccc3aae99dfb" />
+  <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/6ca12397-1bcd-4528-814a-3394ed7dec4f" />
+  <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/b5d7d249-07cb-4010-9ff8-071d8b56ef55" />
+  <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/9cfc49e8-c09b-4005-80e1-cde785b44a3b" />
+  <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/ab8015a2-c210-4a15-b1dd-ffab50b9084d" />
+  <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/1235174b-308f-4e00-884d-8fa03005acd4" />
+  <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/055b19b6-80c3-42d1-ba70-f29db95866a6" />
+  <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/a790de8f-b854-4eee-9295-bbc9dce76a82" />
+  <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/1b36b709-ca55-4021-b5f3-809a11266a23" />
+  <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/d1d6d0b7-2943-46f4-b13d-af32d36cd55c" />
+  <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/6371501f-fb54-486a-84d4-e619fc5cde8d" />
+  <img width="35" height="35" alt="image" src="https://github.com/user-attachments/assets/e64220a9-6f11-4e08-97a5-2c58ed46abd4" />
+
+
+
+
+
  
   </div>
 <br/>

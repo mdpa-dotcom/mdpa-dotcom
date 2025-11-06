@@ -36,7 +36,7 @@
 <samp>
 <h2 align="center">Acerca de esta cuenta</h2>
  <p align="center">
-  <a href="github.com/mdpa-dotcom" target="blank"><img align="center" 
+  <a href="" target="blank"><img align="center" 
      src="https://komarev.com/ghpvc/?username=mdpa-dotcom&color=blueviolet&style=plastic&label=Visitas+al+perfil&abbreviated=true" height="25"
      alt="views count" /></a>
  </p>

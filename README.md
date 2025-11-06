@@ -6,7 +6,7 @@
 
 -----
 <details>
-  <summary>☎️ Contactos</summary>
+  <summary align="left">☎️ Contactos</summary>
 <div>
   <samp>
     <h2 align="center">Puedes contactarme por:</h2>
@@ -33,7 +33,7 @@
 </details>
 
 <details>
-  <summary>🧮 Acerca de</summary>
+  <summary align="left">🧮 Acerca de</summary>
 <div>
 <samp>
 <h2 align="center">Acerca de esta cuenta</h2>
@@ -47,7 +47,7 @@
 </details>
 
 <details> 
-  <summary>💻 GitHub Profile Stats</summary>
+  <summary align="left">💻 GitHub Profile Stats</summary>
   <div>
   <samp>
     <h2 align="center"> Github stats </h2>
@@ -74,7 +74,7 @@
 </details>
 
 <details>
-  <summary>🌏 Tecnologías</summary>
+  <summary align="left">🌏 Tecnologías</summary>
   <samp>
   <br/>
   <h2 align="center"> Tecnologías que utilizo </h2>
